@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+}
+h1 {
+    color: rgb(226, 102, 19);
+}
+.btn {
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 30%;
+    margin: 1rem;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+.pink {
+    background-color: pink;
+}
+.green {
+    background-color: green;
+}
+.blue {
+    background-color: blue;
+}
+.yellow {
+    background-color: yellow;
+}
+.flash {
+    background-color: white;
+}
+.bd {
+    border: 10px solid black;
+}
